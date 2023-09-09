@@ -1,6 +1,7 @@
-package com.chubanova;
+package com.chubanova.command;
 
 public interface Command {
+
     void execute();
 
 }
